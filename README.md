@@ -264,11 +264,11 @@ Valence operates through **five specialized AI agents** that coordinate through 
 
 1. Create a new Band.ai chat room for your transaction
 2. Create or import the five specialized agents:
-   - `@paulsamson1101/document-triager`
-   - `@paulsamson1101/financial-forensic-agent`
-   - `@paulsamson1101/legal-compliance-analyst`
-   - `@paulsamson1101/risk-synthesis-agent`
-   - `@paulsamson1101/executive-arbitrator`
+   - `@document-triager`
+   - `@financial-forensic-agent`
+   - `@legal-compliance-analyst`
+   - `@risk-synthesis-agent`
+   - `@executive-arbitrator`
 3. Configure agent system prompts with M&A context and role definitions
 4. Set up mention-based triggers for sequential agent workflow
 5. Configure callback webhook to return final recommendation to n8n
